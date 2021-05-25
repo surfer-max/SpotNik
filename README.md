@@ -1,6 +1,8 @@
 # SpotNik
 StepTo / PushTo / Digital Setting Circles for EQ Mounted Telescopes Based on Arduino &amp; optional LX200 protocol
 
+For complete instructions see --> https://www.instructables.com/SpotNik-StepTo-PushTo-Digital-Setting-Circles-for-/
+
 Since some time I have a nice 5'' telescope with EQ3 mount, which has a sufficient quality to view many deep sky objects - but the challenge is always to find these objects at all!!!
 
 I have already tested everything possible, manual setting circles (doesn't work at all), finder scope, LED finder, TELRAD ... The TELRAD is by far the best, but with a lightpoluted sky it is difficult to find the reference stars for some objects ...
